@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/closefile.png</file>
+        <file>icon/newfile.png</file>
+        <file>icon/openfile.png</file>
+        <file>icon/savefile.png</file>
+        <file>icon/saveasfile.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/font_color.png</file>
+        <file>icon/font_format.png</file>
+        <file>icon/developer.png</file>
+        <file>icon/update.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/cut.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/selectAll.png</file>
+        <file>icon/notepad.png</file>
+    </qresource>
+</RCC>
